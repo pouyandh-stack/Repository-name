@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">رسانه آریا | Resane Aria</string>
+    <string name="nav_home">آگهی‌ها</string>
+    <string name="nav_post_ad">ثبت آگهی</string>
+    <string name="nav_dashboard">داشبورد</string>
+    <string name="nav_profile">پروفایل</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "رسانه آریا | Resane Aria",
+  "description": "پلتفرم هوشمند آگهی و نیازمندی‌های صفاشهر، بوانات، قادرآباد و پاسارگاد با اتصال مستقیم به فضای ابری آنلاین و بروزرسانی لحظه‌ای",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

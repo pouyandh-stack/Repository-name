@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Classic Luxury Shield / Crest Badge Vector -->
+    <!-- Outer Shield Border -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,20 C64,20 74,22 82,27 L82,53 C82,69.5 69.5,82.5 54,88 C38.5,82.5 26,69.5 26,53 L26,27 C34,22 44,20 54,20 Z" />
+    <!-- Inner Dark Shield -->
+    <path
+        android:fillColor="#0B132B"
+        android:pathData="M54,24 C62.5,24 71,25.7 78,30 L78,52 C78,66 67.5,77.5 54,82.5 C40.5,77.5 30,66 30,52 L30,30 C37,25.7 45.5,24 54,24 Z" />
+    <!-- Central Classic Star / Emblem -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,34 L57.5,45 L69,45 L59.7,51.8 L63.2,62.8 L54,56 L44.8,62.8 L48.3,51.8 L39,45 L50.5,45 Z" />
+    <!-- Bottom Laurel / Ribbon Accents -->
+    <path
+        android:fillColor="#C5A059"
+        android:pathData="M40,68 C44,72 49,74 54,75 C59,74 64,72 68,68 C66,69.5 60,72 54,72 C48,72 42,69.5 40,68 Z" />
+</vector>
